@@ -1,4 +1,6 @@
-[
+{
+  cities :
+  [
   {"id": 1, "name": "Tokyo"},
   {"id": 2, "name": "New York City"},
   {"id": 3, "name": "Los Angeles"},
@@ -301,4 +303,4 @@
   {"id": 300, "name": "Dubai"}
 ]
 
-
+}
